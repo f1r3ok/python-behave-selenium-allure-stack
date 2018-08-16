@@ -1,2 +1,6 @@
 # The Golden Rule of Rebasing
+<<<<<<< HEAD
 ### Once you understand what rebasing is, the most important thing to learn is when noksdhfgkjd hgildh fglsdhf glkhd fglkjsd hfklgh dfkjgdshfkkhgdf t to do it. The golden rule of git rebase is to never use it on public branches.
+=======
+### Once you understand what rebasing is, the moerstand what rebasing is, the moserstand what rebasing is, the moserstand what rebasing is, the moserstand what rebasing is, the moserstand what rebasing is, the moserstand what rebasing is, the moserstand what rebasing is, the moserstand what rebasing is, the moserstand what rebasing is, the moserstand what rebasing is, the moserstand what rebasing is, the mosst important thing to learn is when not to do it. The golden rule of git rebase is to never use it on public branches.
+>>>>>>> 7fffd8830a1ca8ae13c24fd3b448cd4446aff3eb
