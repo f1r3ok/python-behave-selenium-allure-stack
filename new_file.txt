@@ -1,2 +1,2 @@
 # The Golden Rule of Rebasing
-### LOCAL! Once you understand what rebasing is, the moerstand what rebasing is, the moserstand what rebasing is, the moserstand what rebasing is, the moserstand what rebasing is, the moserstand what rebasing is, the moserstand what rebasing is, the moserstand what rebasing is, the moserstand what rebasing is, the moserstand what rebasing is, the moserstand what rebasing is, the moserstand what rebasing is, the mosst important thing to learn is when not to do it. The golden rule of git rebase is to never use it on public branches.
+AFTER MERGE!
