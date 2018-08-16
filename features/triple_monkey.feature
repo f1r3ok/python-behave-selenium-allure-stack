@@ -1,3 +1,5 @@
+# Feature file in Gherkin format - the actual test-case
+
 Feature: Triple Monkey spin test
   In order to play Triple Monkey slot game,
   As a registered user
