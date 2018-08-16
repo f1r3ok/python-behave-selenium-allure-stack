@@ -1,1 +1,3 @@
+*.pyc
+allure-result/
 chromedriver.exe

@@ -4,7 +4,8 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.keys import Keys
 from selenium.common.exceptions import WebDriverException
-import time
+from allure_commons.types import AttachmentType
+import time, allure
 
 @given(u'the user opens Triple Monkey')
 def step_impl(context):
@@ -54,3 +55,4 @@ def step_impl(context):
     print('context.end_balance: ' + context.end_balance + '\n')
     print('context.total_bet: ' + context.total_bet + '\n')
     assert float(context.end_balance) == (float(context.start_balance) - 2 * float(context.total_bet))
+    allure.attach(context.webdriver.get_screenshot_as_png(), name="Screenshot", attachment_type=AttachmentType.PNG)
