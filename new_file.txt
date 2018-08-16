@@ -1,0 +1,2 @@
+# The Golden Rule of Rebasing
+### Once you understand what rebasing is, the most important thing to learn is when not to do it. The golden rule of git rebase is to never use it on public branches.
