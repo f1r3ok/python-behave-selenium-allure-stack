@@ -32,16 +32,3 @@
         $ pip install allure-behave
         $ behave -f allure_behave.formatter:AllureFormatter -o %allure_result_folder% ./features
         $ allure serve %allure_result_folder%
-
-## III. BackOffice demo:
-        1. Test-case overview
-        2. Demo, reports
-        3. Conclusion, questions, tea =)
-
-## IV. Links:
-        https://bitbucket.skywindgroup.com/projects/SQA/repos/sqa-autotests/browse
-        http://ndpsoftware.com/git-cheatsheet.html
-        https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf
-        https://backlog.com/git-tutorial/git-workflow/
-        https://learngitbranching.js.org/
-        https://github.com/jlord/git-it-electron/releases/tag/4.3.3
